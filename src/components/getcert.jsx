@@ -42,7 +42,7 @@ class Getcert extends Component {
       <div
         style={{
           //backgroundImage: `url(${b1})`,
-          background: `url(${b1}) no-repeat `,
+          background: ``,
           backgroundSize: "cover",
           border: "1px solid black",
           height: "100vh",

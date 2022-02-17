@@ -37,7 +37,7 @@ class Forms extends Component {
         style={{
           height: "100vh%",
           //backgroundImage: `url(${b1})`,
-          background: `url(${b1}) no-repeat `,
+          background: `white`,
           backgroundSize: "cover"
         }}
       >
@@ -46,7 +46,7 @@ class Forms extends Component {
             fontFamily: "Montserrat",
             fontWeight: "bold",
             fontSize: "60px",
-            color: "#66ffe7"
+            color: "black"
           }}
           className="mb-5 pt-3"
         >
